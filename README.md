@@ -11,8 +11,6 @@ I turn my most unusual ideas into fully-fledged web applications
 - 🌍 Based in Russia, Moscow.
 - 🎓 Student at Central University.
 
-<br/>
-
 ### Main Skills
 
 <p align="left">
@@ -27,8 +25,6 @@ I turn my most unusual ideas into fully-fledged web applications
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
 </p>
-
-<br/>
 
 ### 📫 Contact Me
 
