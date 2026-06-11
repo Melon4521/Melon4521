@@ -1,10 +1,10 @@
 # Hi, I'm Vladislav Kuznetsov 👋
 
-<h2>
+<h3>
   A Full Stack Developer&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="21" height="21" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="21" height="21" />
-</h2>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="20" height="20" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="20" height="20" />
+</h3>
 
 I turn my most unusual ideas into fully-fledged web applications
 
