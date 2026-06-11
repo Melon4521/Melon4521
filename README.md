@@ -1,20 +1,19 @@
 # Hi, I'm Vladislav Kuznetsov 👋
 
 <h3>
-  A Full Stack Developer&nbsp;
+  I'm a Full Stack Developer&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="20" height="20" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="20" height="20" />
 </h3>
 
 I turn my most unusual ideas into fully-fledged web applications
 
-- 🌍 I'm based in Russia, Moscow
-- 🎓 Study at Central University
-- ✉️ Contact me at [Telegram](https://t.me/melonINdev)
+- 🌍 Based in Russia, Moscow.
+- 🎓 Student at Central University.
 
 ---
 
-## Main Skills
+### Main Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
@@ -28,3 +27,7 @@ I turn my most unusual ideas into fully-fledged web applications
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
 </p>
+
+### 📫 Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melonINdev)
