@@ -1,4 +1,4 @@
-# Hi, I'm Vladislav Kuznetsov 👋
+# Hi, I'm Vlad 👋
 
 <h3>
   Full-Stack Developer&nbsp;
@@ -15,7 +15,8 @@ I turn my most unusual ideas into fully-fledged web applications
 
 ### Main Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=javascript" width="40" height="40" alt="JavaScript" align="center"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=javascript" width="40" height="40" alt="JavaScript" align="center"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40" alt="TypeScript" align="center"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=html" width="40" height="40" alt="HTML5" align="center"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=css3" width="40" height="40" alt="CSS3" align="center"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=reactjs" width="40" height="40" alt="React" align="center"></a>
