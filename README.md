@@ -21,7 +21,15 @@ I turn my most unusual ideas into fully-fledged web applications
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=css3" width="40" height="40" alt="CSS3" align="center"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=reactjs" width="40" height="40" alt="React" align="center"></a>
 <a href="https://vite.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=vite" width="40" height="40" alt="Vite" align="center"></a>
+<a href="https://vitest.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=vitest" width="40" height="40" alt="Vitest" align="center"></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=playwright" width="40" height="40" alt="Playwright" align="center"></a>
+<a href="https://reactrouter.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=reactrouter" width="40" height="40" alt="React Router" align="center"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tailwindcss" width="40" height="40" alt="Tailwind CSS" align="center"></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=shadcnui" width="40" height="40" alt="Shadcn UI" align="center"></a>
+<a href="https://www.radix-ui.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=radixui" width="40" height="40" alt="Radix UI" align="center"></a>
+<a href="" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=" width="40" height="40" alt="" align="center"></a>
+<a href="" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=" width="40" height="40" alt="" align="center"></a>
+
 <a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go" align="center"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" align="center"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker" align="center"></a>
