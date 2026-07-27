@@ -27,8 +27,8 @@ I turn my most unusual ideas into fully-fledged web applications
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tailwindcss" width="40" height="40" alt="Tailwind CSS" align="center"></a>
 <a href="https://ui.shadcn.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=shadcnui" width="40" height="40" alt="Shadcn UI" align="center"></a>
 <a href="https://www.radix-ui.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=radixui" width="40" height="40" alt="Radix UI" align="center"></a>
-<a href="" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=" width="40" height="40" alt="" align="center"></a>
-<a href="" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=" width="40" height="40" alt="" align="center"></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=zustand" width="40" height="40" alt="Zustand" align="center"></a>
+<a href="https://tanstack.com/query/latest" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tanstack" width="40" height="40" alt="Tanstack Query" align="center"></a>
 
 <a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go" align="center"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" align="center"></a>
